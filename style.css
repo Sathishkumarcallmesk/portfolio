@@ -1,0 +1,23 @@
+body{background-image: url(https://branding.ifas.ufl.edu/media/brandingifasufledu/zoom-assets/Spiral.jpg);
+
+color: rgb(255, 255, 255);
+
+
+
+
+}
+
+
+table td,th {
+border:0px solid blue;
+border-collapse:collapse;
+text-align: center;
+
+
+}
+
+
+#mobile
+{
+    width: 400px;
+}
